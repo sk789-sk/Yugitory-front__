@@ -3,6 +3,8 @@
 assets/
 assetsr/
 
+utils/CardUtils/exp.txt
+
 # dependencies
 node_modules/
 
@@ -42,3 +44,5 @@ ios/
 andriod/
 # typescript
 *.tsbuildinfo
+
+
